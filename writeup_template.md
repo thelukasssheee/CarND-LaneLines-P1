@@ -1,7 +1,6 @@
 # **Finding Lane Lines on the Road** 
 
 ## ... the "magical power of a few lines of code" ...
-
 ### ... and "how difficult it can become in the end" 
 
 ---
@@ -26,7 +25,7 @@ The goals / steps of this project are the following:
 
 ### Reflection
 
-### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
+### 1. Pipeline description
 
 In the beginning of my pipeline, I collected all variables. This way it becomes easier to tweak the algorithm.
 
