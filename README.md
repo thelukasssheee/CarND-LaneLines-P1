@@ -2,7 +2,7 @@
 
 ---
 
-The solution to this project is wrapped up in `writeup.md`, also located within this repository. ** Results, installation instructions and can be found there.
+The solution to this project is wrapped up in `writeup.md`, also located within this repository. Results, installation instructions and can be found there.
 
 Below, you can find the actual project definition from Udacity.
 
