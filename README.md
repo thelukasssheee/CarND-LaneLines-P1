@@ -1,3 +1,18 @@
+# Readme for Finding Lane Lines / Preambel
+
+---
+
+The solution to this project is wrapped up in `writeup.md`, also located within this repository. ** Results, installation instructions and can be found there.
+
+Below, you can find the actual project definition from Udacity.
+
+I hope you will have as much fun with it as I did! 
+
+
+---
+
+
+
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
