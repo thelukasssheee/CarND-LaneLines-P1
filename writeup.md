@@ -87,10 +87,10 @@ However, by adding the yellow/white separation as additional step, this problem 
 
 ### 3. Suggest possible improvements to your pipeline
 
-Already applied: 
+Already applied (with great success!): 
 
-~~ Increase image's contrast beforehand, thus possibly reducing the effect of shadows ~~
-~~ Instead of a simple grayscale conversion, increase the trust-worthiness of light colours (white, yellow) instead of grayish dark colours ~~
+* Increase image's contrast beforehand, thus possibly reducing the effect of shadows ~~
+* Instead of a simple grayscale conversion, increase the trust-worthiness of light colours (white, yellow) instead of grayish dark colours ~~
 
 
 There are several options to further improve the pipeline:
